@@ -1,2 +1,2 @@
 # Projeto linguagens de progamacao
- primeiro projeto usando git e github,e treinando meu js.
+Seja bem vindo primeiro projeto usando git e github,e treinando meu js,espero que vc desfrute possamos treinar juntos.
